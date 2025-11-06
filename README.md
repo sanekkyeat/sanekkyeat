@@ -35,7 +35,3 @@
 </p>
 
 ---
-
-⭐️ *If you like my projects, feel free to give them a star!*
-
-![snake gif](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
